@@ -1,0 +1,10 @@
+{
+  "snort": {
+    "category": "player",
+    "sounds": [
+      "narcotics:snort_1",
+      "narcotics:snort_2",
+      "narcotics:snort_3"
+    ]
+  }
+}
