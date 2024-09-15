@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "narcotics:sulfuric_acid",
+    "narcotics:flowing_sulfuric_acid",
+    "narcotics:coca_solution",
+    "narcotics:flowing_coca_solution"
+  ]
+}

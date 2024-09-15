@@ -3,9 +3,9 @@
 	"id": "narcotics",
 	"version": "${version}",
 	"name": "Narcotics MC",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Ever wanted to be in a Cartel? Ever wanted to snort your life away? Well this is the right mod for you!",
 	"authors": [
-		"Me!"
+		"Fredeun.net"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"net.fredeun.narcotics.NarcoticsMCDataGenerator"
+		],
+		"client": [
+			"net.fredeun.narcotics.NarcoticsClient"
 		]
 	},
 	"mixins": [

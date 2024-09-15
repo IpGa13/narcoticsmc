@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "narcotics:block/coca_plant_0"
+    },
+    "age=1": {
+      "model": "narcotics:block/coca_plant_1"
+    },
+    "age=2": {
+      "model": "narcotics:block/coca_plant_2"
+    },
+    "age=3": {
+      "model": "narcotics:block/coca_plant_3"
+    }
+  }
+}
